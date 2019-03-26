@@ -1,4 +1,4 @@
-# Fuctions Python Kata
+# Functions Python Kata
 
 ## 1. Basics
 """

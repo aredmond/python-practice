@@ -9,9 +9,9 @@
 3. Print both integers
 4. Type cast a integer variable from 1 or 2 into a float and print it.
 
-## 2. Basic Built in fuctions
+## 2. Basic Built in functions
 
-### Use the following built in fuctions
+### Use the following built in functions
 
 1. type()
 2. print()
@@ -44,12 +44,13 @@ numlist = list(range(10))
 ### Dict Challenges
 
 1. Define a dict with 2 key pairs make sure one of the keys is 'fuel'
-2. Define another dict with 2 or more key pairs
-3. Define a emply Dict
-4. Combine dicts from 1 and 2 into one new dict
-5. Print the value for key 'fuel' of the dict from 1.
-6. Loop through all element of the dict from 2. and print the keys and values
-7. Use help to find a built in fuction for dicts that prints all the keys. hint help(shuttle)
+2. Print the value for key 'fuel' of the dict from 1.
+3. Use help to find a built in function for dicts creates a set-like object with all the keys. hint help(dict1)
+4. Define another dict with 2 or more key pairs
+5. Add a key pair to the dictionary from step 4.
+6. Define a empty Dict
+7. Combine dicts from 1 and 2 into one new dict
+8. Loop through all element of the dict from 2. and print the keys and values
 
 ## 4. Tuples
 
