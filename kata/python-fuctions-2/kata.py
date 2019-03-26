@@ -7,6 +7,7 @@
 3. Add a argument
 4. Add another argument with a default value
 """
+
 # 1.
 def empty_function():
     pass
