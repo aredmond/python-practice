@@ -1,0 +1,14 @@
+Hello All,
+
+The Cloud Platform Team would like to invite you to join us for python training! We will be holding a python course every Wednesday at 2:00pm. The instructor will guide the class through various python challenges while the students work in pairs to complete the challenge. The challenges will be released to a git repository after the class and will serve as the practice martial for that week. Students are expected to go through the challenges until googling and referring to the answers is no longer necessary (3-5 times before the next class). The course will start with the very basics, no programing knowledge is needed to take the course. The beginner course will last 4 weeks and will repeat with a fresh batch of students after completion.
+
+We need two types of students, those that know little to nothing about python or programming and those that have python or programming experience. People from group 1 and people from group 2 will partner up and work the challenges together. Here are the prerequisites for the course:
+
+1. Install python 3.7.2
+2. Install vscode
+3. Try and find a partner for the course (reach out for help and we can find one for you.)
+
+Please note, this is an active learning class and participation is REQUIRED. Hope to see you all soon!
+
+Thanks,
+Andrew Redmond
