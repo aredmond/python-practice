@@ -6,7 +6,8 @@ We need two types of students, those that know little to nothing about python or
 
 1. Install python 3.7.2
 2. Install vscode
-3. Try and find a partner for the course (reach out for help and we can find one for you.)
+3. Install git
+4. Try and find a partner for the course (reach out for help and we can find one for you.)
 
 Please note, this is an active learning class and participation is REQUIRED. Hope to see you all soon!
 
