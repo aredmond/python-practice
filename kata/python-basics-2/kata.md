@@ -17,12 +17,13 @@ c = 0
 ```
 2. Create a if statement that succeeds after comparing a and b, have it print something on success
 3. Add an else if (elif) statement that DOES NOT execute after comparing a and c, have it print something as well.
-4. Add an and statement to the if comparison that causes the if to fail (not execute) forcing the elif to be checked.
-5. Add an or statement to the elif that will succeed
-6. Add and else statement, change the values so that the else block is executed
+4. Add an `and` statement to the if comparison that causes the if to fail (not execute) forcing the elif to be checked.
+5. Add an `or` statement to the elif that will succeed
+6. Add an else statement, change the values so that the else block is executed
 7. Write an if that checks if the string "cat" is contained in the string "cats in hats".
-8. Reverse 6 with a not and check for "bat" vs "cat"
-9. Write a one line if else statement
+8. Force the comparison in the if from step 7 to fail with using a built in `not`
+9. Now change "cat" to "bat", the if should now succeed
+10. Write a one line if else statement
 
 ## 3. Looping Basics
 
