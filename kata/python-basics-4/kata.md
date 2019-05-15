@@ -27,6 +27,7 @@
 
 1. Write a simple lambda function takes one `int` argument and outputs its square x**2
 2. Using a lambda in the return line create a function that returns a function, include one argument
+3. In one line write a lambda and pass arguments
 
 
 ## Try Except Blocks

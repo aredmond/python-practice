@@ -1,0 +1,4 @@
+
+Write a new file sample_write.txt to the disk, make sure it has a min of 3 lines of text in it.
+Use wget to pull down https://releases.hashicorp.com/packer/1.4.0/index.json, 
+open it as a file and load it as a dict. HINT (import json and use json.load)
