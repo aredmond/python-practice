@@ -8,8 +8,23 @@
 """
 
 # 1.
+import click
 
-# 2.
+@click.group()
+@click.option('--debug/--no-debug', default=False)
+def cli(debug):
+    click.echo('Debug mode is %s' % ('on' if debug else 'off'))
 
-# 3.
+@cli.command()  # @cli, not @click!
+def sync():
+    click.echo('Syncing')
+
+# 2. 3.
+@cli.command()
+def test():
+    """This is the helo for my test command""" # 3.
+    click.echo('Testing')
+
+if __name__ == '__main__':
+    cli()
 
